@@ -1,7 +1,7 @@
 class Node:
     def __init__(self,key,val):
         self.key,self.val = key,val        #linked list
-        self.prev,self.next = None,None
+        self.prev,self.next = None,None    #Doubly linked list
 
 class LRUCache:
 

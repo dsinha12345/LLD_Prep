@@ -10,7 +10,6 @@ class LRUCache:
         self.map = {} #cache
         self.left,self.right = Node(0,0), Node(0,0)
         self.left.next,self.right.prev = self.right,self.left
-        
     
     def remove(self,key):
         p,n = self.map[key].prev, self.map[key].next

@@ -50,3 +50,5 @@ class LRUCache:
         self.insert_node(key,value)
         return
 
+# i need to start coding.
+#it's high time now.

@@ -1,2 +1,2 @@
 # LLD_Prep
-lld_ques_practise
+lld_ques_practice
